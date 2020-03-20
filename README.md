@@ -49,3 +49,4 @@ the License.
 Screenshots
 -----------
 ![numbers fragment](miwok_1.PNG)
+![family fragment](miwok_2.PNG)
